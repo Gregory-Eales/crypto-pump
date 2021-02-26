@@ -1,0 +1,4 @@
+
+[03:23:18] [1m[32mBuy[0m: 10 x BTC
+[03:23:19] [1m[31mError[0m: unable to perform action
+
